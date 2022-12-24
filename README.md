@@ -1,3 +1,2 @@
-# SimURAI-KitKat
-wow
-versions cool
+# SimURAI-X86
+INDEV build, please check back later! :)
